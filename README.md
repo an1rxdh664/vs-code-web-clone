@@ -8,6 +8,6 @@ Here is the screenshot of the project :- <br>
 
 ![screencapture-127-0-0-1-5500-P-vscode-web-clone-index-html-2025-06-16-13_35_19](https://github.com/user-attachments/assets/eb472900-486d-4089-ba32-a150ebf82b8b)
 
-Thankyou for checking it out, i am open to any remarks or reviews. So please give your feedback.
-My Gmail : anirudhhh637@gmail.com
+Thankyou for checking it out, i am open to any remarks or reviews. So please give your feedback.<br>
+My Gmail : anirudhhh637@gmail.com<br>
 Thank-You.
